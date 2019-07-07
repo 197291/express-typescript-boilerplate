@@ -1,0 +1,12 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["backend-tslint-rules"],
+  "jsRules": {},
+  "rules": {
+    "no-console": [false],
+    "no-trailing-whitespace": true,
+    "only-arrow-functions": false,
+    "quotemark": [true, "single"]
+  },
+  "rulesDirectory": []
+}

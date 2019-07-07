@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types", "./typings"],
+    "target": "es6",
+    "baseUrl": "./build",
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules"]
+}
